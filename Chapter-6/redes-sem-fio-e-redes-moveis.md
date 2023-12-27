@@ -21,6 +21,14 @@ Pode-se classificar as redes sem fios de 2 modos:
 
 # *Características de enlaces e redes sem fio*
 ---
+![Características de enlaces de padrões selecionados de rede sem fio](https://github.com/enzzodani/seminario-redes-2023-2/assets/136587824/6e45ba29-ed8a-40ad-ae1a-2d4a40f4b86c)
+
+* *Redução da força do sinal*: Radiações eletromagnéticas são afetadas quando atravessam algum tipo de matéria (um sinal de rádio ao atravessar uma parede). O sinal se dispersará mesmo ao ar livre, resultando na redução de sua força à medida que aumenta a distância entre emissor e receptor.
+
+* *Interferência de outras fontes*:  Várias fontes de rádio transmitindo na mesma frequência sofrerão interferência umas das outras. Por exemplo, telefones sem fio de 2,4 GHz e LANs sem fio 802.11b transmitem na mesma banda de frequência. Assim, o usuário de uma LAN sem fio 802.11b que estiver se comunicando por um telefone sem fio de 2,4 GHz pode esperar que ambas não funcionem bem. Além disso, o ruído eletromagnético presente no ambiente (um motor ou um equipamento de micro-ondas próximo) pode causar interferência.
+
+* *Propagação multivias*: A propagação multivias ocorre quando partes da onda eletromagnética se refletem em objetos e no solo e tomam caminhos de comprimentos diferentes entre um
+emissor e um receptor. Isso resulta no embaralhamento do sinal recebido no destinatário. Objetos que se movimentam entre o emissor e o receptor podem fazer com que a propagação multivias mude ao longo do tempo.
 
 ## *CDMA*
 
