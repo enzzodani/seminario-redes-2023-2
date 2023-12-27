@@ -49,11 +49,11 @@ Como a tecnologia evolui, novas demandas e desafios podem surgir, impulsionando 
 
 ### Aplicações
 
-- **Bluetooth:** Amplamente utilizado em dispositivos móveis, fones de ouvido, alto-falantes, entre outros dispositivos de consumo.
+- Amplamente utilizado em dispositivos móveis, fones de ouvido, alto-falantes, entre outros dispositivos de consumo.
 
 ### Funcionalidades
 
-- **Bluetooth:** Oferece comunicação eficiente para dispositivos pessoais, com suporte a transmissão de voz e dados.
+- Oferece comunicação eficiente para dispositivos pessoais, com suporte a transmissão de voz e dados.
 
 ## Redes pessoais: Zigbee
 
@@ -63,11 +63,11 @@ Como a tecnologia evolui, novas demandas e desafios podem surgir, impulsionando 
 
 ### Aplicações
 
-- **Zigbee:** Aplicações em automação residencial, monitoramento ambiental, agricultura e indústrias.
+- Aplicações em automação residencial, monitoramento ambiental, agricultura e indústrias.
 
 ### Funcionalidades
 
-- **Zigbee:** Focado em aplicações de redes de sensores, com baixo consumo de energia e capacidade de suportar uma grande quantidade de dispositivos conectados.
+- Focado em aplicações de redes de sensores, com baixo consumo de energia e capacidade de suportar uma grande quantidade de dispositivos conectados.
 
 
 ## Bluetooth x Zigbee
