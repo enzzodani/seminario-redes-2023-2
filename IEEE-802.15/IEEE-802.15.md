@@ -36,27 +36,36 @@ Como a tecnologia evolui, novas demandas e desafios podem surgir, impulsionando 
 
 - **Integração de Tecnologias Emergentes:** Adaptação para integrar tecnologias emergentes, como a Internet das Coisas (IoT) e inteligência artificial, para aprimorar a eficiência e a funcionalidade.
 
-## Redes Pessoais: Bluetooth e Zigbee
+## Redes Pessoais: Bluetooth
 
 ### Definição
 
 - **Bluetooth (IEEE 802.15.1):** Padrão de comunicação sem fio de curto alcance utilizado principalmente para conectar dispositivos pessoais.
 
-- **Zigbee (IEEE 802.15.4):** Padrão destinado a redes de sensores sem fio de baixo custo e baixo consumo de energia.
-
 ### Aplicações
 
 - **Bluetooth:** Amplamente utilizado em dispositivos móveis, fones de ouvido, alto-falantes, entre outros dispositivos de consumo.
-
-- **Zigbee:** Aplicações em automação residencial, monitoramento ambiental, agricultura e indústrias.
 
 ### Funcionalidades
 
 - **Bluetooth:** Oferece comunicação eficiente para dispositivos pessoais, com suporte a transmissão de voz e dados.
 
+## Redes pessoais: Zigbee
+
+### Definição
+
+- **Zigbee (IEEE 802.15.4):** Padrão destinado a redes de sensores sem fio de baixo custo e baixo consumo de energia.
+
+### Aplicações
+
+- **Zigbee:** Aplicações em automação residencial, monitoramento ambiental, agricultura e indústrias.
+
+### Funcionalidades
+
 - **Zigbee:** Focado em aplicações de redes de sensores, com baixo consumo de energia e capacidade de suportar uma grande quantidade de dispositivos conectados.
 
-### Comparativo
+
+## Bluetooth x Zigbee
 
 - **Alcance:** O Zigbee geralmente tem um alcance maior em comparação com o Bluetooth.
 
@@ -64,7 +73,7 @@ Como a tecnologia evolui, novas demandas e desafios podem surgir, impulsionando 
 
 - **Largura de Banda:** Bluetooth geralmente oferece maior largura de banda, sendo mais adequado para transferências rápidas de dados.
 
-# Referências
+## Referências
 
 1. IEEE-SA - "IEEE Standards Association." Disponível em: [https://standards.ieee.org/](https://standards.ieee.org/)
 2. Bluetooth SIG - "Bluetooth Technology Website." Disponível em: [https://www.bluetooth.com/](https://www.bluetooth.com/)
