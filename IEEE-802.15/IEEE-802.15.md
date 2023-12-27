@@ -41,6 +41,11 @@ Como a tecnologia evolui, novas demandas e desafios podem surgir, impulsionando 
 ### Definição
 
 - **Bluetooth (IEEE 802.15.1):** Padrão de comunicação sem fio de curto alcance utilizado principalmente para conectar dispositivos pessoais.
+- **Observação: Bluetooth x IEEE 802.15.1**: quando mencionamos "Bluetooth" no contexto da família IEEE 802.15, estamos nos referindo à especificação IEEE 802.15.1. O Bluetooth é, portanto, uma implementação específica do padrão IEEE 802.15.1, que faz parte da família de padrões IEEE 802.15. Em resumo:
+
+  * **Bluetooth**: É uma tecnologia específica de comunicação sem fio de curto alcance, e sua implementação segue as especificações do padrão IEEE 802.15.1.
+
+  * **IEEE 802.15.1**: Faz parte da família IEEE 802.15 e fornece as especificações para a tecnologia Bluetooth.
 
 ### Aplicações
 
