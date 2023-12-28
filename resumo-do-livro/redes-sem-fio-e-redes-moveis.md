@@ -47,15 +47,6 @@ emissor e um receptor. Isso resulta no embaralhamento do sinal recebido no desti
 
 ## *Redes pessoais: Bluetooth e Zigbee*
 
-# *Acesso celular à internet*
----
-
-## *Visão geral da arquitetura de rede celular*
-
-## *Redes de dados celulares 3G*
-
-## *No caminho pro 4G: LTE*
-
 # *Gerenciamento da mobilidade: princípios*
 ---
 
@@ -64,16 +55,6 @@ emissor e um receptor. Isso resulta no embaralhamento do sinal recebido no desti
 ## *Roteamento para um nó móvel*
 
 # *IP Móvel*
----
-
-# *Gerenciamento de mobilidade em redes celulares*
----
-
-## *Roteando chamadas para um usuário móvel*
-
-## *Transferências (handoffs) em GSM*
-
-# *Redes sem fio e mobilidade*
 ---
 
 # *Resumo*
