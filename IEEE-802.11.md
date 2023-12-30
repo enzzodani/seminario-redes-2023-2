@@ -30,5 +30,5 @@ _**Redes Residenciais:** Em residências, os protocolos IEEE 802.11 são usados 
 
 ## Evolução e Alternativas aos Protocolos IEEE 802.11:
 
--**Wi-Fi 6 (802.11ax)**:** Uma evolução do Wi-Fi que oferece maior eficiência espectral, melhor desempenho em ambientes congestionados e maior capacidade de conexão simultânea.
+-**Wi-Fi 6 (802.11ax)**: Uma evolução do Wi-Fi que oferece maior eficiência espectral, melhor desempenho em ambientes congestionados e maior capacidade de conexão simultânea.
 -**Wi-Fi 6E (802.11ax em faixas de 6 GHz):** Introduz novas faixas de frequência para aumentar a largura de banda disponível.
